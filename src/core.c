@@ -70,6 +70,7 @@ bool cli_core_init(void) {
     static const char *default_banner[] = {
         "==============J-Shell================",
         "An Open Source Command Line Interface\n",
+        "=====================================\n"
         "Version:    1.0.0",
         "Built:   " __DATE__,
         "Platform:    "
